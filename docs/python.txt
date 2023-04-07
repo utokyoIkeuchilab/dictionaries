@@ -27,3 +27,13 @@ isinstance
 # str
 
 rfind
+
+# Private libraries
+
+hhcmodel
+neuronio
+
+# 3rd party libraries
+
+dotenv
+skorch
