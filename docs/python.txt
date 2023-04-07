@@ -32,9 +32,12 @@ rfind
 
 hhcmodel
 neuronio
+rpdaq
 
 # 3rd party libraries
 
 dotenv
 pyqt
+pyqtgraph
 skorch
+tomli
