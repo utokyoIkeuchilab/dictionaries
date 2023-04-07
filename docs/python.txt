@@ -36,4 +36,5 @@ neuronio
 # 3rd party libraries
 
 dotenv
+pyqt
 skorch
