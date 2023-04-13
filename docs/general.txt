@@ -1,3 +1,4 @@
 clazz
+conv
 convolutional
 FBCSP
