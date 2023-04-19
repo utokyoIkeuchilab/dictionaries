@@ -12,6 +12,18 @@ dateutil
 
 dotenv
 
+# isort
+
+isort
+
+# lightgbm
+
+lightgbm
+
+# loguru
+
+loguru
+
 # matplotlib
 
 matplotlib
@@ -33,6 +45,14 @@ newaxis
 numpy
 vstack
 
+# pandas
+
+inplace
+
+# pycaret
+
+pycaret
+
 # pyqt
 
 pyqt
@@ -40,6 +60,11 @@ pyqt
 # pyqtgraph
 
 pyqtgraph
+
+## sklearn
+
+kmeans
+sklearn
 
 # skorch
 
@@ -53,3 +78,7 @@ tomli
 
 cudnn
 optim
+
+# tsfresh
+
+tsfresh
