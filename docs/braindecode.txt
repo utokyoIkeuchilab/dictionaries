@@ -1,3 +1,0 @@
-braindecode
-EEGNetv4
-sfreq
