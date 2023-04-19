@@ -11,6 +11,8 @@ downsampler
 downsampling
 FBCSP
 hostnames
+kmeans
+nyquist
 organoid
 pitaya
 preprocess
