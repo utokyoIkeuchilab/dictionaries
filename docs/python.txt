@@ -18,6 +18,10 @@ strftime
 timetuple
 utcnow
 
+# docstrings
+
+docstrings
+
 # functools
 
 functools
@@ -33,6 +37,10 @@ devnull
 getenv
 makedirs
 splitext
+
+# pyproject
+
+pyproject
 
 # setuptools
 
