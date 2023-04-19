@@ -54,6 +54,7 @@ setuptools
 
 ITIMER
 SIGALRM
+set_wakeup_fd
 setitimer
 signum
 
@@ -62,6 +63,7 @@ signum
 classmethod
 getattr
 isinstance
+setattr
 staticmethod
 
 # str
