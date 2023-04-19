@@ -1,10 +1,17 @@
+chatbot
+chatbots
 clazz
+clusterized
+clusterizer
 conv
 convolutional
 cuda
+downsampled
+downsampler
 FBCSP
 hostnames
 organoid
 pitaya
 preprocess
+umap
 wellplate
