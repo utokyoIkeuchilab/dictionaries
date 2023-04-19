@@ -1,5 +1,6 @@
 clazz
 conv
 convolutional
+cuda
 FBCSP
 organoid
