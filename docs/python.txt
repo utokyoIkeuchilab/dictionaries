@@ -32,6 +32,7 @@ chdir
 devnull
 getenv
 makedirs
+splitext
 
 # setuptools
 
