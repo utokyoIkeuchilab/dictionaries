@@ -27,6 +27,13 @@ devnull
 getenv
 makedirs
 
+# signal
+
+ITIMER
+SIGALRM
+setitimer
+signum
+
 # stdlib
 
 classmethod
@@ -37,17 +44,3 @@ staticmethod
 # str
 
 rfind
-
-# Private libraries
-
-hhcmodel
-neuronio
-rpdaq
-
-# 3rd party libraries
-
-dotenv
-pyqt
-pyqtgraph
-skorch
-tomli
