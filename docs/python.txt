@@ -44,3 +44,9 @@ staticmethod
 # str
 
 rfind
+
+# types
+
+getattr
+isinstance
+traceback
