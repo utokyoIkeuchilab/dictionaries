@@ -8,4 +8,3 @@ redpitayaio
 rpdaq
 tocm
 tocmodel
-tocmodelapp
