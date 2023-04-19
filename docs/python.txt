@@ -7,6 +7,11 @@ asyncio
 contextlib
 contextmanager
 
+# cpython
+
+cpython
+PyMODINIT_FUNC
+
 # datetime
 
 strftime
@@ -26,6 +31,10 @@ chdir
 devnull
 getenv
 makedirs
+
+# setuptools
+
+setuptools
 
 # signal
 
