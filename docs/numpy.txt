@@ -1,6 +1,0 @@
-arange
-ndarray
-hstack
-newaxis
-numpy
-vstack
