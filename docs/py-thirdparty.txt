@@ -12,6 +12,10 @@ dateutil
 
 dotenv
 
+# fastapi
+
+fastapi
+
 # isort
 
 isort
@@ -38,16 +42,25 @@ pycompat
 # numpy
 
 arange
+byteswap
 dtype
-ndarray
+frombuffer
 hstack
+inplace
+ndarray
 newaxis
+newbyteorder
 numpy
+tobytes
 vstack
 
 # pandas
 
 inplace
+
+# pydantic
+
+pydantic
 
 # pycaret
 
@@ -70,6 +83,10 @@ sklearn
 
 skorch
 
+# starlette
+
+starlette
+
 # tomli
 
 tomli
@@ -82,3 +99,7 @@ optim
 # tsfresh
 
 tsfresh
+
+# uvicorn
+
+uvicorn
