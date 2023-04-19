@@ -14,4 +14,6 @@ organoid
 pitaya
 preprocess
 umap
+unmanage
+websockets
 wellplate
