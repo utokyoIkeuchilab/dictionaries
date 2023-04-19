@@ -4,6 +4,10 @@ braindecode
 EEGNetv4
 sfreq
 
+# dotenv
+
+dotenv
+
 # matplotlib
 
 matplotlib
@@ -24,6 +28,18 @@ hstack
 newaxis
 numpy
 vstack
+
+# pyqt
+
+pyqt
+
+# pyqtgraph
+
+pyqtgraph
+
+# skorch
+
+skorch
 
 # tomli
 
