@@ -18,6 +18,7 @@ pycompat
 # numpy
 
 arange
+dtype
 ndarray
 hstack
 newaxis
