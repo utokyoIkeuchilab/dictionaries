@@ -1,0 +1,28 @@
+# braindecode
+
+braindecode
+EEGNetv4
+sfreq
+
+# matplotlib
+
+matplotlib
+pyplot
+
+# numpy
+
+arange
+ndarray
+hstack
+newaxis
+numpy
+vstack
+
+# tomli
+
+tomli
+
+# torch
+
+cudnn
+optim
