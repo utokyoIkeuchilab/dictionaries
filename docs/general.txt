@@ -3,6 +3,7 @@ conv
 convolutional
 cuda
 FBCSP
+hostnames
 organoid
 pitaya
 preprocess
