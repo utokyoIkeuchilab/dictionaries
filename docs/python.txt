@@ -15,6 +15,7 @@ PyMODINIT_FUNC
 # datetime
 
 strftime
+timetuple
 utcnow
 
 # functools
@@ -53,6 +54,10 @@ staticmethod
 # str
 
 rfind
+
+# time
+
+mktime
 
 # types
 
