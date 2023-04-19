@@ -66,6 +66,10 @@ pydantic
 
 pycaret
 
+# pyenv
+
+pyenv
+
 # pyqt
 
 pyqt
