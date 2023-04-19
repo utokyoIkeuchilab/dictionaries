@@ -3,4 +3,5 @@ HHCM
 hhcmodel
 maxwellio
 neuronio
+redpitayaio
 rpdaq
