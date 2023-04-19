@@ -4,6 +4,10 @@ braindecode
 EEGNetv4
 sfreq
 
+# dateutil
+
+dateutil
+
 # dotenv
 
 dotenv
