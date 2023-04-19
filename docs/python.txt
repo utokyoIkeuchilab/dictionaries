@@ -60,6 +60,7 @@ signum
 
 # stdlib
 
+__qualname__
 classmethod
 getattr
 isinstance
