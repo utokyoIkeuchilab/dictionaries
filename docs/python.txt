@@ -79,3 +79,7 @@ mktime
 getattr
 isinstance
 traceback
+
+# venv
+
+venv
