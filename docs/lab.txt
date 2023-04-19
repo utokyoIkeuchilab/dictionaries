@@ -2,6 +2,7 @@ ikeuchilab
 HHCM
 hhcmodel
 maxwellio
+mobiusio
 neuronio
 redpitayaio
 rpdaq
