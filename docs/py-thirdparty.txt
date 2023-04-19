@@ -32,6 +32,9 @@ loguru
 
 matplotlib
 pyplot
+xlabel
+ylabel
+zlabel
 
 # maxlab
 
@@ -56,6 +59,7 @@ vstack
 
 # pandas
 
+iloc
 inplace
 
 # pydantic
@@ -72,11 +76,21 @@ pyenv
 
 # pyqt
 
+DontUseNativeDialog
 pyqt
 
 # pyqtgraph
 
 pyqtgraph
+
+# pyqtspinner
+
+pyqtspinner
+
+## qtutils
+
+inmain
+qtutils
 
 ## sklearn
 
