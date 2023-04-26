@@ -91,12 +91,16 @@ pyqtgraph
 
 pyqtspinner
 
-## qtutils
+# qdarktheme
+
+qdarktheme
+
+# qtutils
 
 inmain
 qtutils
 
-## sklearn
+# sklearn
 
 kmeans
 sklearn
