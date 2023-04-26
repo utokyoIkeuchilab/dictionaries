@@ -11,6 +11,10 @@ buildx
 
 maxwell
 
+# miniconda
+
+miniconda
+
 # mobius
 
 mobius
