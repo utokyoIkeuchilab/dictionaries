@@ -46,6 +46,10 @@ splitext
 
 pyproject
 
+# random
+
+randint
+
 # setuptools
 
 setuptools
