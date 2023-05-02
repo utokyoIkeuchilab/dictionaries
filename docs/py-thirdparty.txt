@@ -50,6 +50,7 @@ dtype
 frombuffer
 hstack
 inplace
+linspace
 ndarray
 newaxis
 newbyteorder
