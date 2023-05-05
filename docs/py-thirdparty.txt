@@ -101,6 +101,11 @@ qdarktheme
 inmain
 qtutils
 
+# scipy
+
+scipy
+truncnorm
+
 # sklearn
 
 kmeans
