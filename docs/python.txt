@@ -39,6 +39,7 @@ importlib
 chdir
 devnull
 getenv
+getsize
 makedirs
 splitext
 
