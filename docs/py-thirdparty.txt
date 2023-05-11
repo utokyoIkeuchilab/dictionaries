@@ -47,6 +47,7 @@ pycompat
 arange
 byteswap
 dtype
+fftfreq
 frombuffer
 hstack
 inplace
