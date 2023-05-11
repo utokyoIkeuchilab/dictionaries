@@ -80,6 +80,10 @@ rfind
 
 mktime
 
+# timeit
+
+timeit
+
 # types
 
 getattr
