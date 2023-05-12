@@ -133,6 +133,10 @@ tomli
 cudnn
 optim
 
+# tqdm
+
+tqdm
+
 # tsfresh
 
 tsfresh
