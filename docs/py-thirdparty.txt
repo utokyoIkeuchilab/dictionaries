@@ -80,6 +80,10 @@ pydwf
 
 pyenv
 
+# pygame
+
+pygame
+
 # pyqt
 
 DontUseNativeDialog
