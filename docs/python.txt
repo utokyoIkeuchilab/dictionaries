@@ -6,6 +6,10 @@ argparse
 
 asyncio
 
+# collections
+
+namedtuple
+
 # contextlib
 
 contextlib
