@@ -10,6 +10,7 @@ buildx
 # maxwell
 
 maxwell
+mxwbio
 
 # miniconda
 
