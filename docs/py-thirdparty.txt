@@ -88,6 +88,7 @@ pygame
 # pythonosc
 
 pythonosc
+ThreadingOSCUDPServer
 
 # pyqt
 
