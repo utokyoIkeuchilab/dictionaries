@@ -85,6 +85,10 @@ pyenv
 
 pygame
 
+# pythonosc
+
+pythonosc
+
 # pyqt
 
 DontUseNativeDialog
