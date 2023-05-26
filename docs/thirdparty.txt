@@ -20,6 +20,10 @@ miniconda
 
 mobius
 
+# open sound control
+
+osc
+
 # redpitaya
 
 redpitaya
