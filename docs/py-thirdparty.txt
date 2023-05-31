@@ -51,6 +51,7 @@ fftfreq
 frombuffer
 hstack
 inplace
+isin
 linspace
 ndarray
 newaxis
