@@ -20,6 +20,10 @@ fastapi
 
 isort
 
+# joblib
+
+joblib
+
 # lightgbm
 
 lightgbm
