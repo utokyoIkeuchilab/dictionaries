@@ -34,7 +34,9 @@ loguru
 
 # matplotlib
 
+clim
 cmap
+colorbar
 imshow
 matplotlib
 pyplot
