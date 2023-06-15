@@ -19,5 +19,6 @@ pitaya
 preprocess
 umap
 unmanage
+viridis
 websockets
 wellplate
