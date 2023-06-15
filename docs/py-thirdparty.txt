@@ -34,6 +34,8 @@ loguru
 
 # matplotlib
 
+cmap
+imshow
 matplotlib
 pyplot
 xlabel
