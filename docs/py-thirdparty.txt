@@ -65,6 +65,7 @@ ndarray
 newaxis
 newbyteorder
 numpy
+savez
 setdiff1d
 tobytes
 vstack
