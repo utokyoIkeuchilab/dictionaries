@@ -53,6 +53,10 @@ getsize
 makedirs
 splitext
 
+# pathlib
+
+pathlib
+
 # pyproject
 
 pyproject
