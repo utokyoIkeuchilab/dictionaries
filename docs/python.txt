@@ -24,6 +24,11 @@ contextmanager
 cpython
 PyMODINIT_FUNC
 
+# dataclasses
+
+dataclass
+dataclasses
+
 # datetime
 
 strftime
