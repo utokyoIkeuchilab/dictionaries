@@ -4,6 +4,10 @@ braindecode
 EEGNetv4
 sfreq
 
+# cachetools
+
+cachetools
+
 # dateutil
 
 dateutil
