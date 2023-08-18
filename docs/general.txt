@@ -11,6 +11,7 @@ downsampled
 downsampler
 downsampling
 FBCSP
+guideless
 hostnames
 kmeans
 nyquist
