@@ -31,6 +31,7 @@ dataclasses
 
 # datetime
 
+fromtimestamp
 strftime
 timedelta
 timetuple
