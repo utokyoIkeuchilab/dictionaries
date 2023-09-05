@@ -121,6 +121,10 @@ pyqtgraph
 
 pyqtspinner
 
+# pytz
+
+pytz
+
 # qdarktheme
 
 qdarktheme
