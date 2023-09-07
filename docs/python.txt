@@ -90,6 +90,7 @@ signum
 __qualname__
 classmethod
 getattr
+hasattr
 isinstance
 setattr
 staticmethod
