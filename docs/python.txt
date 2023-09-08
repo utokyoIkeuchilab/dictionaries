@@ -32,6 +32,7 @@ dataclasses
 # datetime
 
 fromtimestamp
+isoformat
 strftime
 timedelta
 timetuple
