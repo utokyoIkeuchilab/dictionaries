@@ -17,6 +17,7 @@ kmeans
 nyquist
 organoid
 pitaya
+posix
 preprocess
 umap
 unmanage
