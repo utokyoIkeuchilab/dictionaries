@@ -120,3 +120,4 @@ traceback
 
 venv
 virtualenv
+virtualenvs
