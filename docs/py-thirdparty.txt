@@ -20,6 +20,10 @@ dotenv
 
 fastapi
 
+# flake8
+
+noqa
+
 # isort
 
 isort
