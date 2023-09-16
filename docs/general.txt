@@ -11,6 +11,7 @@ downsampled
 downsampler
 downsampling
 FBCSP
+fqcn
 guideless
 hostnames
 kmeans
