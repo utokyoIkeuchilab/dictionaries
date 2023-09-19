@@ -10,6 +10,7 @@ cuda
 downsampled
 downsampler
 downsampling
+dpkg
 FBCSP
 fqcn
 guideless
