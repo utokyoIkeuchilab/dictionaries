@@ -62,6 +62,10 @@ getsize
 makedirs
 splitext
 
+# os.path
+
+isfile
+
 # pathlib
 
 pathlib
