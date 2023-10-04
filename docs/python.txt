@@ -61,6 +61,7 @@ getenv
 getsize
 makedirs
 splitext
+topdown
 
 # os.path
 
