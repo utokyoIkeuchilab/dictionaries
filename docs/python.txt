@@ -65,6 +65,7 @@ splitext
 # os.path
 
 isfile
+relpath
 
 # pathlib
 
@@ -128,4 +129,5 @@ virtualenvs
 
 # zipfile
 
+arcname
 zipfile
