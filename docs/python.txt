@@ -108,6 +108,11 @@ staticmethod
 
 rfind
 
+# shutil
+
+rmtree
+shutil
+
 # time
 
 mktime
