@@ -150,6 +150,7 @@ truncnorm
 # sklearn
 
 kmeans
+scikit
 sklearn
 
 # skorch
